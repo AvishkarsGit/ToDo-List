@@ -45,7 +45,7 @@ body  {
     font-weight: 500;
 }
 .task p {
-    margin-right: 20px;
+    margin-right:2.3rem;
     text-align: justify;
 }
 .task i {
@@ -65,4 +65,10 @@ body  {
     background-color: #B7B7B7;
     color:black;
     text-decoration: line-through;
+}
+
+#edit {
+    margin-right: 20px;
+    font-size: 0.75rem;
+
 }
